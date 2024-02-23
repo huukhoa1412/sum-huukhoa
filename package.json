@@ -1,0 +1,12 @@
+{
+  "name": "sum-huukhoa",
+  "version": "1.0.0",
+  "description": "Một thư viện giúp bạn tính tổng của 2 số bất kỳ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Le Huu Khoa",
+  "license": "ISC"
+}
